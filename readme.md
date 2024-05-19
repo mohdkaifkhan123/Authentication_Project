@@ -1,12 +1,12 @@
-# MERN Authentication Starter
+# Authentication Using MERN
 
 This is a starter app for a MERN stack application with authentication. This is for a SPA (Single Page Application) workflow that uses the [Vite](https://vite.dev) Build tool.
 
 
 It includes the following:
 - http://localhost:5000/api/users (to create new account)
-- http://localhost:5000/api/users/auth(to login to register account)
-- http://localhost:5000/api/users/logout(to logout from current account)
+- http://localhost:5000/api/users/auth (to login to register account)
+- http://localhost:5000/api/users/logout (to logout from current account)
 - Backend API with Express & MongoDB
 - Routes for auth, logout, register, profile, update profile
 - JWT authentication stored in HTTP-only cookie
